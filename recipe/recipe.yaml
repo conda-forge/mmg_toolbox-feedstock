@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.7.0"
+  version: "0.8.0"
 
 package:
   name: mmg_toolbox
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/m/mmg_toolbox/mmg_toolbox-${{ version }}.tar.gz
-  sha256: e3f15867ef60cdd7f499a1319648fa9985ef8886be552629e90df0edee51d119
+  sha256: 50e06e20228e3019c42c7307148322fa9dfc2888e2bcd7addeceab8570a8ddb3
 
 build:
   number: 0
